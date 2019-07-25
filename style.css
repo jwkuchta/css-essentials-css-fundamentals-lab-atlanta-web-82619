@@ -38,3 +38,9 @@ nav a {
 #details {
   background-color: red;
 }
+
+#details div {
+  float: left;
+  display:inline;
+  width: 33%
+}
