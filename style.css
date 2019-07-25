@@ -36,12 +36,13 @@ nav a {
 }
 
 #details {
-  background-color: red;
+  
   text-align: center;
 }
 
 #details div {
   float: left;
   display:inline;
-  width: 25%
+  width: 25%;
+  background-color: red;
 }
